@@ -1,2 +1,2 @@
 # SQL_tire_service
-SQL database design for tire service
+SQL database designed for tire service
